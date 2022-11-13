@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>Widescreen Patch</name>
+  <id>Donk.WidescreenPatch</id>
+  <author>Donk</author>
+  <version>1.0</version>
+  <link />
+  <description>Repackage of widescreen patch for P3FES by nemesis2000, devina, CeruleansBlue, Arapapa so it can be easily included with Aemulus
+
+Recommended to use Community Widescreen Fixes alongside this patch.</description>
+  <skippedVersion>all</skippedVersion>
+</Metadata>
